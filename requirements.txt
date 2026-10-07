@@ -1,0 +1,3 @@
+Requirements:
+- I want to create a visualisation of the different types of phones i see
+- It will take the phones i spot from the last 2 months
